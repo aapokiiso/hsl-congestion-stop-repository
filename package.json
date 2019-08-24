@@ -30,6 +30,7 @@
     },
     "dependencies": {
         "@aapokiiso/hsl-congestion-db-schema": "^2.0.1",
-        "@aapokiiso/hsl-congestion-graphql-gateway": "^2.0.1"
+        "@aapokiiso/hsl-congestion-graphql-gateway": "^2.0.1",
+        "sequelize": "^5.16.0"
     }
 }
